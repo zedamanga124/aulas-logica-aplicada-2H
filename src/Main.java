@@ -9,7 +9,7 @@ public class Main {
 
         // laço para faça
         for(int x =0; x < 10; x++){
-            System.out.println("Contador = " = +);
+            System.out.println("Contador = " + x);
         }
     }
 }
